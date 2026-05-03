@@ -23,6 +23,9 @@ https://ollama.com
 Verify Installation  
 `ollama --version`  
 
+Ollama Models:
+https://ollama.com/library
+
 Run a Model  
 `ollama run qwen3:4b`  
 
