@@ -1,8 +1,8 @@
-# 🧠 Ollama Workshop Guide
+# Ollama Workshop Guide
 
 ---
 
-## 🐍 Setup Anaconda (First)
+## Setup Anaconda (First)
 
 Download Anaconda:  
 https://www.anaconda.com  
@@ -15,7 +15,7 @@ conda activate ollama
 
 ---
 
-## ⚙️ Setup Ollama
+## Setup Ollama
 
 Download Ollama:  
 https://ollama.com  
@@ -30,7 +30,7 @@ ollama run qwen3:4b
 
 ---
 
-## 🐍 Run Python Scripts
+## Run Python Scripts
 
 Install Dependency  
 pip install requests  
@@ -40,7 +40,7 @@ python ollama_local_chat_api.py
 
 ---
 
-## 🌐 Setup OpenWebUI
+## Setup OpenWebUI
 
 Project:  
 https://github.com/open-webui/open-webui  
@@ -56,7 +56,7 @@ http://localhost:8080
 
 ---
 
-## 🔗 Configure OpenWebUI
+## Configure OpenWebUI
 
 Open Settings  
 Set Ollama Base URL:  
@@ -67,7 +67,7 @@ Start chatting
 
 ---
 
-## 🧠 RAM vs Model Size
+## RAM vs Model Size
 
 Approximate RAM required for quantized models:
 
@@ -84,7 +84,7 @@ Examples
 
 ---
 
-## 🚀 Project Ideas
+## Project Ideas
 
 1. Resume–Job Match Analyzer  
 2. AI Study Assistant  
@@ -104,7 +104,7 @@ Examples
 
 ---
 
-## ✅ Done
+## Done
 
 You can now:
 
