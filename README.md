@@ -8,10 +8,10 @@ Download Anaconda:
 https://www.anaconda.com  
 
 Create Environment  
-'conda create -n ollama python=3.11 -y'  
+`conda create -n ollama python=3.11 -y`
 
 Activate Environment  
-conda activate ollama  
+`conda activate ollama`  
 
 ---
 
@@ -21,10 +21,10 @@ Download Ollama:
 https://ollama.com  
 
 Verify Installation  
-ollama --version  
+`ollama --version`  
 
 Run a Model  
-ollama run qwen3:4b  
+`ollama run qwen3:4b`  
 
 ## NOTE: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
 
@@ -33,10 +33,10 @@ ollama run qwen3:4b
 ## Run Python Scripts
 
 Install Dependency  
-pip install requests  
+`pip install requests`  
 
 Run Script  
-python ollama_local_chat_api.py  
+`python ollama_local_chat_api.py`  
 
 ---
 
@@ -46,10 +46,10 @@ Project:
 https://github.com/open-webui/open-webui  
 
 Install  
-pip install open-webui  
+`pip install open-webui`  
 
 Run  
-open-webui serve  
+`open-webui serve`  
 
 Open in Browser  
 http://localhost:8080  
