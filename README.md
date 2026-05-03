@@ -1,6 +1,7 @@
 # ollama_demo
 AI WORKSHOP
-Setup Anaconda (First)
+
+Setup Anaconda Environment
 
 Download Anaconda:
 https://www.anaconda.com
