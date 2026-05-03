@@ -26,6 +26,8 @@ ollama --version
 Run a Model  
 ollama run qwen3:4b  
 
+## NOTE: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
+
 ---
 
 ## 🐍 Run Python Scripts
