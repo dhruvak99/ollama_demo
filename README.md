@@ -13,7 +13,7 @@ conda activate ollama
 
 ⸻
 
-⚙️ Setup Ollama
+Setup Ollama
 
 Download Ollama:
 https://ollama.com
@@ -26,7 +26,7 @@ ollama run qwen3:4b
 
 ⸻
 
-🐍 Run Python Scripts
+Run Python Scripts
 
 Install dependency
 pip install requests
@@ -36,7 +36,7 @@ python ollama_local_chat_api.py
 
 ⸻
 
-🌐 Setup OpenWebUI
+Setup OpenWebUI
 
 Project:
 https://github.com/open-webui/open-webui
@@ -52,7 +52,7 @@ http://localhost:8080
 
 ⸻
 
-🧠 RAM vs Model Size
+RAM vs Model Size
 
 Approximate RAM required for quantized models:
 
@@ -69,7 +69,7 @@ Examples
 
 ⸻
 
-🚀 Project Ideas
+Project Ideas
 
 1. Resume–Job Match Analyzer
 2. AI Study Assistant
