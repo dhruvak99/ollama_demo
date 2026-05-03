@@ -23,7 +23,7 @@ https://ollama.com
 Verify Installation  
 `ollama --version`  
 
-Ollama Models:
+Ollama Models: 
 https://ollama.com/library
 
 Run a Model  
