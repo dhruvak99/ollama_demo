@@ -8,7 +8,7 @@ Download Anaconda:
 https://www.anaconda.com  
 
 Create Environment  
-conda create -n ollama python=3.11 -y  
+'conda create -n ollama python=3.11 -y'  
 
 Activate Environment  
 conda activate ollama  
