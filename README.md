@@ -4,8 +4,7 @@
 
 ## Setup Anaconda (First)
 
-Download Anaconda:  
-https://www.anaconda.com  
+Download Anaconda:  https://www.anaconda.com  
 
 Create Environment  
 `conda create -n ollama python=3.11 -y`
@@ -17,14 +16,12 @@ Activate Environment
 
 ## Setup Ollama
 
-Download Ollama:  
-https://ollama.com  
+Download Ollama:  https://ollama.com  
 
 Verify Installation  
 `ollama --version`  
 
-Ollama Models: 
-https://ollama.com/library
+Ollama Models:  https://ollama.com/library
 
 Run a Model  
 `ollama run qwen3:4b`  
@@ -45,8 +42,7 @@ Run Script
 
 ## Setup OpenWebUI
 
-Project:  
-https://github.com/open-webui/open-webui  
+Project:  https://github.com/open-webui/open-webui  
 
 Install  
 `pip install open-webui`  
@@ -54,16 +50,14 @@ Install
 Run  
 `open-webui serve`  
 
-Open in Browser  
-http://localhost:8080  
+Open in Browser  http://localhost:8080  
 
 ---
 
 ## Configure OpenWebUI
 
 Open Settings  
-Set Ollama Base URL:  
-http://localhost:11434  
+Set Ollama Base URL:  http://localhost:11434  
 
 Select your model (e.g., qwen3:4b)  
 Start chatting  
